@@ -5,3 +5,5 @@
 .DS_Store
 .quarto
 emails.R
+
+/.quarto/

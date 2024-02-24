@@ -1,6 +1,5 @@
 ---
 title: "Apoio"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---
@@ -11,10 +10,9 @@ Agredecemos o Insper e ao Centro de Ciência de Dados pelo apoio e a disposiçã
 
 [![](img/INSPER+CCD-LOGO-preto.png){fig-alt="Logo do CCD - Insper" fig-align="center" width="50%"}](https://www.insper.edu.br/pesquisa-e-conhecimento/centro-de-ciencia-de-dados/)
 
-
 ### Open Knowledge Brasil (OKBR)
 
-Agradecemos a Open Knowledge Brasil pela microbolsa de apoio ao Open Data Day, no valor de R$ 600,00. Esse valor é importante para o pagamento dos auxílios alimentação e transporte para algumas pessoas participantes!
+Agradecemos a Open Knowledge Brasil pela microbolsa de apoio ao Open Data Day, no valor de R\$ 600,00. Esse valor é importante para o pagamento dos auxílios alimentação e transporte para algumas pessoas participantes!
 
 [![](https://ok.org.br/wp-content/themes/okbr/assets/images/logo.svg?v=20231004){fig-alt="Logo da OKBR" fig-align="center" width="40%"}](https://ok.org.br/)
 

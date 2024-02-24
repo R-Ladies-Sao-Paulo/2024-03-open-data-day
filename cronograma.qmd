@@ -1,28 +1,27 @@
 ---
 title: "Cronograma preliminar"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---
 
-- 8h30 - Chegada + Café comunitário
+-   8h30 - Chegada + Café comunitário
 
-- 9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)
+-   9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)
 
-- 9h20 - Apresentação sobre a R-Ladies São Paulo
+-   9h20 - Apresentação sobre a R-Ladies São Paulo
 
-- 9h40 - Apresentação curta: [O que é Open Data Day?](slide-open-data-day.qmd){target="_blank"}
+-   9h40 - Apresentação curta: [O que é Open Data Day?](slide-open-data-day.qmd){target="_blank"}
 
-- 10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)
+-   10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)
 
-- 10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)
+-   10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)
 
-- 12h00 - Almoço
+-   12h00 - Almoço
 
-- 13h00 - Retorno do Almoço
+-   13h00 - Retorno do Almoço
 
-- 13h15 - Apresentação da Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).
+-   13h15 - Apresentação da Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).
 
-- 13h30 - Atividade prática em grupos de até 5 pessoas, explorando algumas bases pré selecionadas, obtidas na plataforma Base dos Dados.
+-   13h30 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.
 
-- 16h00 - Sorteio + Encerramento
+-   16h00 - Sorteio + Encerramento

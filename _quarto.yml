@@ -41,6 +41,8 @@ website:
       
       - href: gugudadados.qmd
       
+      - href: auxilios.qmd
+      
       - href: apoio.qmd
         text: "Apoio"           
 

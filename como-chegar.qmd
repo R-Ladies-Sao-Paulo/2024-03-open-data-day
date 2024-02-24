@@ -1,6 +1,5 @@
 ---
 title: "Como chegar"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---

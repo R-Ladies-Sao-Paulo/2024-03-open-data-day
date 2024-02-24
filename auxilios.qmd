@@ -1,6 +1,5 @@
 ---
 title: "Auxílio financeiro"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---
@@ -12,3 +11,11 @@ Para quem solicitou o auxílio transporte, será destinado o valor que foi solic
 O valor de auxílio será disponibilizado preferencialmente ao chegar no evento (formato de reembolso). Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).
 
 **Caso a sua participação seja inviabilizada nesta modalidade de reembolso ao chegar no evento, nos avise para que possamos alinhar outras formas de transferir o valor.**
+
+
+## Auxílio alimentação 
+
+
+Para quem solicitou o auxílio alimentação, será destinado o valor fixo de **R\$ 50,00** (cinquenta reais) por pessoa.
+
+Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).

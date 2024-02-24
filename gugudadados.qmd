@@ -1,6 +1,5 @@
 ---
 title: "Espaço Gugudadados"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---

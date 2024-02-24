@@ -1,7 +1,6 @@
 ---
 title: "Análise de dados abertos com R - 2024"
 subtitle: "Um evento Open Data Day"
-author: "R-Ladies São Paulo"
 format: html
 editor: visual
 ---
