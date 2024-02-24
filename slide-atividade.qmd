@@ -1,0 +1,99 @@
+---
+title: "Atividade: Análise de Dados Abertos com R"
+# subtitle: "Análise de Dados Abertos com R"
+author: "[R-Ladies São Paulo](https://www.meetup.com/rladies-sao-paulo/)"
+date: "2023-03-18"
+format: 
+  rladies-revealjs:
+    footer: "Slides feitos com [Quarto](https://quarto.org/docs/presentations/revealjs/index.html) e [Quarto R-Ladies Theme](https://github.com/beatrizmilz/quarto-rladies-theme#quarto-r-ladies-theme)."
+incremental: true
+---
+
+## Trabalho em grupos
+
+-   Agora que já sabemos o que são dados abertos, o plano é trabalhar em grupo para explorar algumas bases de dados abertos!
+
+-   Cada grupo explorará um tema!
+
+-   Vamos usar R!
+
+-   Grupos com pessoas em diferentes níveis de experiência com R: trabalhem colaborativamente para que todas as pessoas do grupo acompanhem o que está acontecendo :)
+
+-   É interessante que pelo menos uma pessoa esteja "codando" e outra pessoa fazendo anotações, e este "posto" seja rotativo (assim as diferentes pessoas tem oportunidade de escrever código!).
+
+-   A tarde, teremos um momento para compartilhar os aprendizados, dificuldades e resultados.
+
+## Monitoria
+
+-   Pessoas com experiência em temas e bases de dados específicas: acompanharão os grupos temáticos, ajudarão em dúvidas relacionadas com a base de dados que tem experiência.
+
+-   Pessoas com experiência geral em R: Estarão na sala à disposição para ajudar nas dúvidas.
+
+## Monitoria Temática
+
++------------------------------+----------------------------------------+
+| **Tema**                     | Equipe                                 |
++==============================+========================================+
+| Violência                    | Fernanda Peres                         |
++------------------------------+----------------------------------------+
+| Emprego                      | Ana Paula Rocha                        |
++------------------------------+----------------------------------------+
+| Dados eleitorais             | Cecília do Lago                        |
++------------------------------+----------------------------------------+
+| Dados ambientais - Queimadas | Bianca Muniz                           |
+|                              |                                        |
+|                              | \                                      |
++------------------------------+----------------------------------------+
+| Dados prisionais             | Thandara Santos                        |
++------------------------------+----------------------------------------+
+| Dados educacionais           | Ana Carolina Moreno                    |
++------------------------------+----------------------------------------+
+
+## Monitoria em R
+
+-   Beatriz Milz
+
+-   Geovana Lopes
+
+-   Haydee Svab
+
+-   Julio Trecenti
+
+-   William Amorim
+
+## Dicas para começar
+
+-   Pensem em um objetivo!
+
+-   Ciclo da ciência de dados:
+
+![](img/ciclo-ciencia-de-dados.png){fig-align="center" width="70%"}
+
+## Compartilhando resultados
+
+-   No período da tarde, teremos um momento para que os grupos compartilhem seus aprendizados, dificuldades e resultados. Por exemplo...
+
+    -   Quais foram as maiores dificuldades do grupo, em termos de dados abertos? Ex: Acesso aos dados? Entendimento das variáveis?
+
+    -   Quais foram as maiores dificuldades do grupo, em termos de programação em R?
+
+    -   O que vocês consideram os maiores aprendizados na atividade de hoje?
+
+    -   Vocês tem algum resultado que é interessante compartilhar? Se sim, compartilhem!
+
+## Blog da R-Ladies
+
+-   Por último: vocês podem compartilhar estes aprendizados no blog da R-Ladies!
+
+[![](images/paste-BECC2A71.png){fig-align="center"}](https://rladies-sp.org/)
+
+# Vamos conhecer um pouco dos temas!
+
+# Vamos aos grupos!
+
+<!-- inicio font awesome -->
+
+```{=html}
+<script src="https://kit.fontawesome.com/1f72d6921a.js" crossorigin="anonymous"></script>
+```
+<!-- final font awesome -->

@@ -1,0 +1,25 @@
+---
+title: "Alimentação"
+author: "R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+## Café colaborativo
+
+### Neste evento, teremos um café colaborativo!
+
+-   As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas **não** é obrigatório!
+
+## Alimentação no Insper
+
+O Insper tem duas unidades na mesma rua:
+
+-   No prédio 1 (Rua Quatá 300), no 5º andar existe um restaurante por kilo, e também um refeitório com microondas. Essa é a opção mais frequentemente utilizada pelas pessoas participantes.
+
+-   No prédio 2 (Quatá 200), no 6º andar existe uma lanchonete, um refeitório com mesas e microondas, além de um terraço com mesas.
+
+Mais informações no [site do Insper](https://www.insper.edu.br/campus/mapa-dos-andares/).
+
+
+Na rua do evento, também existem outros restaurantes (não vinculados com a instituição).

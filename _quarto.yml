@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: _site/ 
+  
+date-format: "DD/MM/YYYY"
+
+lang: pt
+language:
+  pt:
+    title-block-published: "Autoria"
+
+website:
+  page-navigation: true
+  title: "Análise de dados abertos com R"
+    
+  sidebar:
+    title: "Análise de dados abertos com R <br>"
+    background: "#FFFFFF" 
+    foreground: "#562457"
+    logo: img/logo.jpg
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1    
+    tools:
+      - icon: github
+        href: https://github.com/R-Ladies-Sao-Paulo/2024-03-open-data-day
+        text: "GitHub Repository"
+    
+    contents:
+      - href: index.qmd
+        text: "Página inicial" 
+  
+      - section: "Informações sobre o Espaço"
+        contents:
+           - como-chegar.qmd
+           - alimentacao.qmd
+
+      - href: cronograma.qmd
+      
+      - href: gugudadados.qmd
+      
+      - href: apoio.qmd
+        text: "Apoio"           
+
+
+  page-footer: 
+    right: "Página criada com [Quarto](https://quarto.org/). "
+    left: "&copy; Copyright 2024, R-Ladies São Paulo"
+    background: "#562457"
+            
+
+format:
+  html:
+    theme: cosmo
+#    css: custom.css
+    toc: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+
+editor: visual
+
+execute:
+  freeze: true

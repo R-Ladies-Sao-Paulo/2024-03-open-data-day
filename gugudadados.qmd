@@ -1,0 +1,20 @@
+---
+title: "Espaço Gugudadados"
+author: "R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+## O que é?
+
+O GuGuDaDados é um espaço colaborativo e experimental que as R-Ladies São Paulo propõem com o objetivo de deixar as crianças entretidas e cuidadas enquanto as pessoas responsáveis podem participar deatividades da comunidade com tranquilidade.
+
+Com o apoio financeiro de outras organizações, buscamos contratar uma professora recreadora para acompanhar as crianças no espaço Gugudadados (uma sala ao lado da sala das atividades dos adultos, no mesmo andar) durante todo o evento.
+
+As organizadoras da R-Ladies também levam brinquedos, desenhos, canetinhas e jogos para entreter e divertir as crianças.
+
+![Fotos do espaço Gugudadados em eventos recentes.](img/gugudadados.png){fig-align="center" width="80%"}
+
+## Como posso levar uma criança?
+
+Ao realizar a inscrição no evento (no formulário), existe uma pergunta sobre isso. Caso você já tenha feito a inscrição e não indicou que levará uma criança (e irá levar), por favor nos envie o quanto antes no email [certificados.rladiessp\@gmail.com](mailto:%20certificados.rladiessp@gmail.com) .

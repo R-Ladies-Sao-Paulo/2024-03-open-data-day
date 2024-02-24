@@ -1,0 +1,43 @@
+---
+title: "Análise de dados abertos com R - 2024"
+subtitle: "Um evento Open Data Day"
+author: "R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+## Boas vindas!
+
+Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024.
+
+As inscrições dos eventos acontecem através da plataforma [Meetup](https://www.meetup.com/rladies-sao-paulo/events/298936962/). Além de se inscrever no Meetup, é necessário [preencher o formulário](https://forms.gle/3xr5zvCspeyeo98M6) presente na descrição da página do meetup.
+
+### Protocolos referentes à COVID-19
+
+Recomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.
+
+### Código de conduta
+
+Este código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: [Clique aqui para acessar o código de conduta](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#portuguese).
+
+### Siga a R-Ladies São Paulo!
+
+-   [Meetup](https://www.meetup.com/rladies-sao-paulo/)
+
+-   [Youtube](https://www.youtube.com/c/RLadiesS%C3%A3oPaulo)
+
+-   [Instagram](https://instagram.com/rladiessaopaulo)
+
+-   [LinkedIn](https://www.linkedin.com/company/94788788/admin/feed/posts/)
+
+Se postar sobre o evento, marque o nosso perfil!
+
+## Apoio
+
+Saiba mais detalhes [na página sobre Apoio](apoio.qmd).
+
+[![](img/INSPER+CCD-LOGO-preto.png){fig-alt="Logo do CCD - Insper" fig-align="center" width="50%"}](https://www.insper.edu.br/pesquisa-e-conhecimento/centro-de-ciencia-de-dados/)
+
+[![](https://ok.org.br/wp-content/themes/okbr/assets/images/logo.svg?v=20231004){fig-alt="Logo da OKBR" fig-align="center" width="40%"}](https://ok.org.br/)
+
+[![](https://basedosdados.github.io/mais/images/bd_minilogo.png){fig-alt="Logo da BD" fig-align="center" width="20%"}](https://basedosdados.org/)

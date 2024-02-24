@@ -1,0 +1,382 @@
+[
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides e materiais",
+    "section": "",
+    "text": "Slide\nMinistrante\n\n\n\n\nConhecendo as R-Ladies São Paulo\nTatyane Paz\n\n\nO que é o Open Data Day?\nHaydee Svab\n\n\nDados Abertos (continuação)\nAna Carolina Moreno\n\n\nComo será a atividade?\nBeatriz Milz"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Análise de dados abertos com R - 2024",
+    "section": "",
+    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024.\nAs inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
+    "crumbs": [
+      "Página inicial"
+    ]
+  },
+  {
+    "objectID": "index.html#apoio",
+    "href": "index.html#apoio",
+    "title": "Análise de dados abertos com R - 2024",
+    "section": "Apoio",
+    "text": "Apoio\nSaiba mais detalhes na página sobre Apoio.",
+    "crumbs": [
+      "Página inicial"
+    ]
+  },
+  {
+    "objectID": "apoio.html#apoio-financeiro",
+    "href": "apoio.html#apoio-financeiro",
+    "title": "Apoio",
+    "section": "Apoio financeiro",
+    "text": "Apoio financeiro",
+    "crumbs": [
+      "Apoio"
+    ]
+  },
+  {
+    "objectID": "como-chegar.html",
+    "href": "como-chegar.html",
+    "title": "Como chegar",
+    "section": "",
+    "text": "O evento acontecerá no Insper, em São Paulo - SP.",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Como chegar"
+    ]
+  },
+  {
+    "objectID": "como-chegar.html#como-chegar",
+    "href": "como-chegar.html#como-chegar",
+    "title": "Como chegar",
+    "section": "Como chegar",
+    "text": "Como chegar\nEndereço: Rua Quatá, 200.",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Como chegar"
+    ]
+  },
+  {
+    "objectID": "como-chegar.html#estacionamento",
+    "href": "como-chegar.html#estacionamento",
+    "title": "Como chegar",
+    "section": "Estacionamento",
+    "text": "Estacionamento\nExistem estacionamentos pagos nos dois prédios do Insper. Mais informações no site do Insper.",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Como chegar"
+    ]
+  },
+  {
+    "objectID": "slide-rladies.html#o-que-é-a-r-ladies",
+    "href": "slide-rladies.html#o-que-é-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "",
+    "text": "R-Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.\nR-Ladies São Paulo integra, orgulhosamente, a organização R-Ladies Global, em São Paulo."
+  },
+  {
+    "objectID": "slide-rladies.html#como",
+    "href": "slide-rladies.html#como",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Como?",
+    "text": "Como?\nAtravés de meetups e mentorias em um ambiente seguro e amigável.\nNosso principal objetivo é promover a linguagem computacional estatística R compartilhando conhecimento, assim, quem tiver interesse na linguagem será bem-vinda, independente do nível de conhecimento.\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
+  },
+  {
+    "objectID": "slide-rladies.html#para-quem",
+    "href": "slide-rladies.html#para-quem",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Para quem?",
+    "text": "Para quem?\nNosso principal público-alvo são as pessoas que se identificam com gêneros sub-representados na comunidade R, portanto: mulheres cis, mulheres trans, homens trans, pessoas não-binárias e queer."
+  },
+  {
+    "objectID": "slide-rladies.html#missão",
+    "href": "slide-rladies.html#missão",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Missão",
+    "text": "Missão\nComo uma iniciativa de diversidade, a missão das R-Ladies é alcançar uma representação proporcional de pessoas de gêneros atualmente sub-representados na comunidade R, incentivando, inspirando e capacitando-as."
+  },
+  {
+    "objectID": "slide-rladies.html#código-de-conduta",
+    "href": "slide-rladies.html#código-de-conduta",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Código de conduta",
+    "text": "Código de conduta\nA R-Ladies dedica-se a proporcionar uma experiência livre de assédio para todas as pessoas partcicipantes, desta forma, não é tolerada nenhuma forma de assédio. Código de conduta - R-Ladies\n\nFonte: About us - R-Ladies, Meetup - São Paulo"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "href": "slide-rladies.html#r-ladies---capítulos-no-mundo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies - Capítulos no mundo",
+    "text": "R-Ladies - Capítulos no mundo\n\n\n\n\nRegião\nNúmero de Capítulos\nTotal de participantes\n\n\n\nUS/Canada\n59\n30112\n\n\nLatin America\n58\n27774\n\n\nEurope\n57\n25056\n\n\nAsia\n19\n5806\n\n\nAfrica\n12\n5688\n\n\nAustralia\n10\n5371\n\n\nPacific/Galapagos\n1\n460\n\n\n\n\n\n\nAtualizado em: 05/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil",
+    "href": "slide-rladies.html#r-ladies-no-brasil",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\nR-Ladies São Paulo\n1340\n\n\nR-Ladies Belo Horizonte\n894\n\n\nR-Ladies Niterói\n760\n\n\nR-Ladies Rio de Janeiro\n644\n\n\nR-Ladies Natal\n456\n\n\nR-Ladies Floripa\n448\n\n\nR-Ladies Goiânia\n417\n\n\nR-Ladies Porto Alegre\n362\n\n\nR-Ladies Salvador\n246\n\n\n\n\n\n\nAtualizado em: 05/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-no-brasil-1",
+    "href": "slide-rladies.html#r-ladies-no-brasil-1",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies no Brasil",
+    "text": "R-Ladies no Brasil\n\n\n\n\n\n\n\n\nCapítulo\nParticipantes\n\n\n\nR-Ladies Vitória\n218\n\n\nR-Ladies Recife\n153\n\n\nR-Ladies Fortaleza\n112\n\n\nR-Ladies Lavras\n66\n\n\nR-Ladies Curitiba\n63\n\n\nR-Ladies Brasília\n61\n\n\nR-Ladies São Mateus\n10\n\n\n\n\n\n\nAtualizado em: 05/2023. Fonte: R Community Explorer"
+  },
+  {
+    "objectID": "slide-rladies.html#r-ladies-em-são-paulo",
+    "href": "slide-rladies.html#r-ladies-em-são-paulo",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "R-Ladies em São Paulo",
+    "text": "R-Ladies em São Paulo\n\n\n\n\n\n\n\n\n\nPrimeiro encontro da R-Ladies São Paulo - 2018\n+ 1340 pessoas participantes - 05/2023"
+  },
+  {
+    "objectID": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "href": "slide-rladies.html#saiba-mais-sobre-a-r-ladies",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Saiba mais sobre a R-Ladies",
+    "text": "Saiba mais sobre a R-Ladies\n\nR-Ladies Global: Website,  Twitter\n\nR-Ladies São Paulo:\n\nBlog: https://rladies-sp.org/\n\n Linkedin\n Twitter\n Instagram\n Facebook\n Meetup\n GitHub\n Youtube"
+  },
+  {
+    "objectID": "alimentacao.html",
+    "href": "alimentacao.html",
+    "title": "Alimentação",
+    "section": "",
+    "text": "As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Alimentação"
+    ]
+  },
+  {
+    "objectID": "alimentacao.html#alimentação-no-insper",
+    "href": "alimentacao.html#alimentação-no-insper",
+    "title": "Alimentação",
+    "section": "Alimentação no Insper",
+    "text": "Alimentação no Insper\nO Insper tem duas unidades na mesma rua:\n\nNo prédio 1 (Rua Quatá 300), no 5º andar existe um restaurante por kilo, e também um refeitório com microondas. Essa é a opção mais frequentemente utilizada pelas pessoas participantes.\nNo prédio 2 (Quatá 200), no 6º andar existe uma lanchonete, um refeitório com mesas e microondas, além de um terraço com mesas.\n\nMais informações no site do Insper.\nNa rua do evento, também existem outros restaurantes (não vinculados com a instituição).",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Alimentação"
+    ]
+  },
+  {
+    "objectID": "alimentacao.html#lista-de-restaurantes-na-proximidade",
+    "href": "alimentacao.html#lista-de-restaurantes-na-proximidade",
+    "title": "Alimentação",
+    "section": "Lista de restaurantes na proximidade",
+    "text": "Lista de restaurantes na proximidade\n\n\n\n\nRestaurante\nDistância em metros\n\n\n\nCharme da Vila\n100\n\n\nDona deôla (restaurante por kilo no Prédio 1 do Insper)\n140\n\n\nSukiya\n350\n\n\nBurguer King\n400",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Alimentação"
+    ]
+  },
+  {
+    "objectID": "slide-rladies.html#gugudadados",
+    "href": "slide-rladies.html#gugudadados",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "GuGuDaDados",
+    "text": "GuGuDaDados\nPrimeira edição em novembro/2022."
+  },
+  {
+    "objectID": "slide-rladies.html#blog-rladies-sp.org",
+    "href": "slide-rladies.html#blog-rladies-sp.org",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "Blog: rladies-sp.org",
+    "text": "Blog: rladies-sp.org\n\nTextos escritos por pessoas da comunidade"
+  },
+  {
+    "objectID": "slide-open-data-day.html#o-que-é-o-dia-dos-dados-abertos",
+    "href": "slide-open-data-day.html#o-que-é-o-dia-dos-dados-abertos",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é o Dia dos Dados Abertos?",
+    "text": "O que é o Dia dos Dados Abertos?\n\nÉ uma celebração anual dos dados abertos em todo o mundo.\nGrupos de todas as partes do mundo criam eventos locais no dia em que usarão dados abertos em suas comunidades.\nTodos os resultados são abertos para que todos usem e reusem.\nÉ organizado e apoiado pela Open Knowledge Foundation!\nSaiba mais em: https://opendataday.org/pt_br/ e https://ok.org.br/projetos/open-data-day/"
+  },
+  {
+    "objectID": "slide-open-data-day.html#o-que-são-dados-abertos",
+    "href": "slide-open-data-day.html#o-que-são-dados-abertos",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que são dados abertos?",
+    "text": "O que são dados abertos?\nSegundo a definição da Open Knowledge Foundation, os dados são considerados abertos quando:\n\nQualquer pessoa pode acessar, usar, modificar e compartilhar livremente para qualquer finalidade (sujeito a, no máximo, a requisitos que preservem a proveniência e a sua abertura).\n\n\n\nFonte: https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
+    "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Princípios de dados abertos governamentais",
+    "text": "Princípios de dados abertos governamentais\n\n1 - Completos. Todos os dados públicos estão disponíveis. Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso.\n2 - Primários. Os dados são apresentados tais como os coletados na fonte, com o maior nível possível de granularidade e sem agregação ou modificação.\n3 - Atuais. Os dados são disponibilizados o mais rápido possível para preservar o seu valor.\n4 - Acessíveis. Os dados são disponibilizados para o maior alcance possível de usuários e para os propósitos mais variados possíveis.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais-1",
+    "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais-1",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Princípios de dados abertos governamentais",
+    "text": "Princípios de dados abertos governamentais\n\n5 - Processáveis por máquina. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.\n6 - Acesso não discriminatório. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.\n7 - Formatos não proprietários. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.\n8 - Livres de licenças. Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
+  },
+  {
+    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
+    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é a LAI?",
+    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+  },
+  {
+    "objectID": "index.html#cronograma",
+    "href": "index.html#cronograma",
+    "title": "Análise de dados abertos com R",
+    "section": "Cronograma",
+    "text": "Cronograma\n\n8h30 - Chegada + café colaborativo!\n9h00 - Abertura: O que é a R-Ladies?\n9h15 - O que é open data day?\n9h30 - Explicação da atividade que faremos!\n10h00 - Trabalho em grupos.\n12h00 - Almoço\n13h00 - Voltar do almoço, continuação do trabalho em grupos.\n14h30 - Compartilhamento de aprendizados, dificuldades e resultados.\n16h00 - Encerramento.\n\n\nProtocolos referentes à COVID-19\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\nCódigo de conduta\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\nSiga a R-Ladies São Paulo!\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
+    "crumbs": [
+      "Página inicial"
+    ]
+  },
+  {
+    "objectID": "slide-atividade.html#trabalho-em-grupos",
+    "href": "slide-atividade.html#trabalho-em-grupos",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Trabalho em grupos",
+    "text": "Trabalho em grupos\n\nAgora que já sabemos o que são dados abertos, o plano é trabalhar em grupo para explorar algumas bases de dados abertos!\nCada grupo explorará um tema!\nVamos usar R!\nGrupos com pessoas em diferentes níveis de experiência com R: trabalhem colaborativamente para que todas as pessoas do grupo acompanhem o que está acontecendo :)\nÉ interessante que pelo menos uma pessoa esteja “codando” e outra pessoa fazendo anotações, e este “posto” seja rotativo (assim as diferentes pessoas tem oportunidade de escrever código!).\nA tarde, teremos um momento para compartilhar os aprendizados, dificuldades e resultados."
+  },
+  {
+    "objectID": "slide-atividade.html#monitoria",
+    "href": "slide-atividade.html#monitoria",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Monitoria",
+    "text": "Monitoria\n\nPessoas com experiência em temas e bases de dados específicas: acompanharão os grupos temáticos, ajudarão em dúvidas relacionadas com a base de dados que tem experiência.\nPessoas com experiência geral em R: Estarão na sala à disposição para ajudar nas dúvidas."
+  },
+  {
+    "objectID": "slide-atividade.html#monitoria-temática",
+    "href": "slide-atividade.html#monitoria-temática",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Monitoria Temática",
+    "text": "Monitoria Temática\n\n\n\n\n\n\n\nTema\nEquipe\n\n\n\n\nViolência\nFernanda Peres\n\n\nEmprego\nAna Paula Rocha\n\n\nDados eleitorais\nCecília do Lago\n\n\nDados ambientais - Queimadas\nBianca Muniz\n\n\n\n\nDados prisionais\nThandara Santos\n\n\nDados educacionais\nAna Carolina Moreno"
+  },
+  {
+    "objectID": "slide-atividade.html#monitoria-em-r",
+    "href": "slide-atividade.html#monitoria-em-r",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Monitoria em R",
+    "text": "Monitoria em R\n\nBeatriz Milz\nGeovana Lopes\nHaydee Svab\nJulio Trecenti\nWilliam Amorim"
+  },
+  {
+    "objectID": "slide-atividade.html#dicas-para-começar",
+    "href": "slide-atividade.html#dicas-para-começar",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Dicas para começar",
+    "text": "Dicas para começar\n\nPensem em um objetivo!\nCiclo da ciência de dados:"
+  },
+  {
+    "objectID": "slide-atividade.html#compartilhando-resultados",
+    "href": "slide-atividade.html#compartilhando-resultados",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Compartilhando resultados",
+    "text": "Compartilhando resultados\n\nNo período da tarde, teremos um momento para que os grupos compartilhem seus aprendizados, dificuldades e resultados. Por exemplo…\n\nQuais foram as maiores dificuldades do grupo, em termos de dados abertos? Ex: Acesso aos dados? Entendimento das variáveis?\nQuais foram as maiores dificuldades do grupo, em termos de programação em R?\nO que vocês consideram os maiores aprendizados na atividade de hoje?\nVocês tem algum resultado que é interessante compartilhar? Se sim, compartilhem!"
+  },
+  {
+    "objectID": "slide-atividade.html#blog-da-r-ladies",
+    "href": "slide-atividade.html#blog-da-r-ladies",
+    "title": "Atividade: Análise de Dados Abertos com R",
+    "section": "Blog da R-Ladies",
+    "text": "Blog da R-Ladies\n\nPor último: vocês podem compartilhar estes aprendizados no blog da R-Ladies!"
+  },
+  {
+    "objectID": "slides.html#apresentações-temáticas",
+    "href": "slides.html#apresentações-temáticas",
+    "title": "Slides e materiais",
+    "section": "Apresentações temáticas",
+    "text": "Apresentações temáticas\n\nDados sobre Violência - Fernanda Peres\nDados ambientais sobre Queimadas - Bianca Muniz\nDados educacionais - Ana Carolina Moreno. Além disso, existe esse vídeo sobre dados de microdados de educação.\nDados sobre Emprego - Ana Paula Rocha\nDados eleitorais - Cecília do Lago\nDados prisionais - Thandara Santos"
+  },
+  {
+    "objectID": "alimentacao.html#café-colaborativo",
+    "href": "alimentacao.html#café-colaborativo",
+    "title": "Alimentação",
+    "section": "",
+    "text": "As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas não é obrigatório!",
+    "crumbs": [
+      "Informações sobre o Espaço",
+      "Alimentação"
+    ]
+  },
+  {
+    "objectID": "index.html#boas-vindas",
+    "href": "index.html#boas-vindas",
+    "title": "Análise de dados abertos com R - 2024",
+    "section": "",
+    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024.\nAs inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
+    "crumbs": [
+      "Página inicial"
+    ]
+  },
+  {
+    "objectID": "slide-rladies.html",
+    "href": "slide-rladies.html",
+    "title": "Conhecendo a R-Ladies São Paulo",
+    "section": "",
+    "text": "R-Ladies é uma organização mundial cuja missão é promover a diversidade de gênero na comunidade da linguagem R.\nR-Ladies São Paulo integra, orgulhosamente, a organização R-Ladies Global, em São Paulo."
+  },
+  {
+    "objectID": "cronograma.html",
+    "href": "cronograma.html",
+    "title": "Cronograma preliminar",
+    "section": "",
+    "text": "8h30 - Chegada + Café comunitário\n9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)\n9h20 - Apresentação sobre a R-Ladies São Paulo\n9h40 - Apresentação curta: O que é Open Data Day?\n10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)\n10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)\n12h00 - Almoço\n13h00 - Retorno do Almoço\n13h15 - Apresentação da Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).\n13h30 - Atividade prática em grupos de até 5 pessoas, explorando algumas bases pré selecionadas, obtidas na plataforma Base dos Dados.\n16h00 - Sorteio + Encerramento",
+    "crumbs": [
+      "Cronograma preliminar"
+    ]
+  },
+  {
+    "objectID": "apoio.html",
+    "href": "apoio.html",
+    "title": "Apoio",
+    "section": "",
+    "text": "Insper - Centro de Ciência de Dados (CCD)\nAgredecemos o Insper e ao Centro de Ciência de Dados pelo apoio e a disposição do espaço para a realização do evento!\n\n\n\n\n\n\n\nOpen Knowledge Brasil (OKBR)\nAgradecemos a Open Knowledge Brasil pela microbolsa de apoio ao Open Data Day, no valor de R$ 600,00. Esse valor é importante para o pagamento dos auxílios alimentação e transporte para algumas pessoas participantes!\n\n\n\n\n\n\n\nBase dos Dados\nAgradecemos a Base dos Dados pelo oferecimento de uma das atividades que fazem parte do evento!",
+    "crumbs": [
+      "Apoio"
+    ]
+  },
+  {
+    "objectID": "gugudadados.html",
+    "href": "gugudadados.html",
+    "title": "Espaço Gugudadados",
+    "section": "",
+    "text": "O GuGuDaDados é um espaço colaborativo e experimental que as R-Ladies São Paulo propõem com o objetivo de deixar as crianças entretidas e cuidadas enquanto as pessoas responsáveis podem participar deatividades da comunidade com tranquilidade.\nCom o apoio financeiro de outras organizações, buscamos contratar uma professora recreadora para acompanhar as crianças no espaço Gugudadados (uma sala ao lado da sala das atividades dos adultos, no mesmo andar) durante todo o evento.\nAs organizadoras da R-Ladies também levam brinquedos, desenhos, canetinhas e jogos para entreter e divertir as crianças.\n\n\n\nFotos do espaço Gugudadados em eventos recentes.",
+    "crumbs": [
+      "Espaço Gugudadados"
+    ]
+  },
+  {
+    "objectID": "gugudadados.html#o-que-é",
+    "href": "gugudadados.html#o-que-é",
+    "title": "Espaço Gugudadados",
+    "section": "",
+    "text": "O GuGuDaDados é um espaço colaborativo e experimental que as R-Ladies São Paulo propõem com o objetivo de deixar as crianças entretidas e cuidadas enquanto as pessoas responsáveis podem participar deatividades da comunidade com tranquilidade.\nCom o apoio financeiro de outras organizações, buscamos contratar uma professora recreadora para acompanhar as crianças no espaço Gugudadados (uma sala ao lado da sala das atividades dos adultos, no mesmo andar) durante todo o evento.\nAs organizadoras da R-Ladies também levam brinquedos, desenhos, canetinhas e jogos para entreter e divertir as crianças.\n\n\n\nFotos do espaço Gugudadados em eventos recentes.",
+    "crumbs": [
+      "Espaço Gugudadados"
+    ]
+  },
+  {
+    "objectID": "gugudadados.html#como-posso-levar-uma-criança",
+    "href": "gugudadados.html#como-posso-levar-uma-criança",
+    "title": "Espaço Gugudadados",
+    "section": "Como posso levar uma criança?",
+    "text": "Como posso levar uma criança?\nAo realizar a inscrição no evento (no formulário), existe uma pergunta sobre isso. Caso você já tenha feito a inscrição e não indicou que levará uma criança (e irá levar), por favor nos envie o quanto antes no email certificados.rladiessp@gmail.com .",
+    "crumbs": [
+      "Espaço Gugudadados"
+    ]
+  },
+  {
+    "objectID": "auxilios.html",
+    "href": "auxilios.html",
+    "title": "Auxílio financeiro",
+    "section": "",
+    "text": "Para quem solicitou o auxílio transporte, será destinado o valor que foi solicitado no formulário.\nO valor de auxílio será disponibilizado preferencialmente ao chegar no evento (formato de reembolso). Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).\nCaso a sua participação seja inviabilizada nesta modalidade de reembolso ao chegar no evento, nos avise para que possamos alinhar outras formas de transferir o valor."
+  },
+  {
+    "objectID": "auxilios.html#auxílio-transporte",
+    "href": "auxilios.html#auxílio-transporte",
+    "title": "Auxílio financeiro",
+    "section": "",
+    "text": "Para quem solicitou o auxílio transporte, será destinado o valor que foi solicitado no formulário.\nO valor de auxílio será disponibilizado preferencialmente ao chegar no evento (formato de reembolso). Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).\nCaso a sua participação seja inviabilizada nesta modalidade de reembolso ao chegar no evento, nos avise para que possamos alinhar outras formas de transferir o valor."
+  }
+]

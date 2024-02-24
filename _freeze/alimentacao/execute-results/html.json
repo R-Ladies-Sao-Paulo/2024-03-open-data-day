@@ -1,0 +1,15 @@
+{
+  "hash": "37d14fe5bd08d47b9a4a026ae43bfc97",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Alimentação\"\nauthor: \"R-Ladies São Paulo\"\nformat: html\neditor: visual\n---\n\n\n## Café colaborativo\n\n### Neste evento, teremos um café colaborativo!\n\n-   As pessoas participantes podem levar comes e bebes para compartilhar com o grupo, mas **não** é obrigatório!\n\n## Alimentação no Insper\n\nO Insper tem duas unidades na mesma rua:\n\n-   No prédio 1 (Rua Quatá 300), no 5º andar existe um restaurante por kilo, e também um refeitório com microondas.\n\n-   No prédio 2 (Quatá 200), no 6º andar existe uma lanchonete, um refeitório com mesas e microondas, além de um terraço com mesas.\n\nMais informações no [site do Insper](https://www.insper.edu.br/campus/mapa-dos-andares/).\n\n## Lista de restaurantes na proximidade\n\n\n::: {.cell}\n::: {.cell-output-display}\n\n\n|Restaurante                                             | Distância em metros|\n|:-------------------------------------------------------|-------------------:|\n|[Charme da Vila](https://g.page/charmedavilaa?share)    |                 100|\n|[Dona deôla (restaurante por kilo no Prédio 1 do Insper)](https://goo.gl/maps/JG8Y5bT1TyoNYBiv9)|                 140|\n|[Sukiya](https://goo.gl/maps/ov38tade8bqvhuQLA)         |                 350|\n|[Burguer King](https://goo.gl/maps/r2EwSRHVGgrWKwLZ6)   |                 400|\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,14 @@
+---
+title: "Auxílio financeiro"
+author: "R-Ladies São Paulo"
+format: html
+editor: visual
+---
+
+## Auxílio transporte
+
+Para quem solicitou o auxílio transporte, será destinado o valor que foi solicitado no formulário.
+
+O valor de auxílio será disponibilizado preferencialmente ao chegar no evento (formato de reembolso). Ao checar no evento, procure a Beatriz Milz, que faz parte da equipe organizadora. Ela estará responsável por fazer as transferências dos valores (preferencialmente via PIX).
+
+**Caso a sua participação seja inviabilizada nesta modalidade de reembolso ao chegar no evento, nos avise para que possamos alinhar outras formas de transferir o valor.**
