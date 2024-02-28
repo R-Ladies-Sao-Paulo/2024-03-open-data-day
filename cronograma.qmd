@@ -20,8 +20,10 @@ editor: visual
 
 -   13h00 - Retorno do Almoço
 
--   13h15 - Apresentação da Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).
+-   13h05 - Apresentação sobre a Open Knowledge Brasil - Haydee Svab
 
--   13h30 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.
+-   13h20 - Apresentação sobre a Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).
+
+-   13h40 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.
 
 -   16h00 - Sorteio + Encerramento
