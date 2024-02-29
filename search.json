@@ -87,6 +87,13 @@
     "text": "O que são dados abertos?\nSegundo a definição da Open Knowledge Foundation, os dados são considerados abertos quando:\n\nQualquer pessoa pode acessar, usar, modificar e compartilhar livremente para qualquer finalidade (sujeito a, no máximo, a requisitos que preservem a proveniência e a sua abertura).\n\n\n\nFonte: https://www.gov.br/governodigital/pt-br/dados-abertos"
   },
   {
+    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
+    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é a LAI?",
+    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica."
+  },
+  {
     "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
     "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
     "title": "O que são dados abertos? O que é o Open Data Day?",
@@ -101,11 +108,18 @@
     "text": "Princípios de dados abertos governamentais\n\n5 - Processáveis por máquina. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.\n6 - Acesso não discriminatório. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.\n7 - Formatos não proprietários. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.\n8 - Livres de licenças. Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
   },
   {
-    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
-    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "objectID": "slide-open-data-day.html#categorizando-a-abertura-dos-dados",
+    "href": "slide-open-data-day.html#categorizando-a-abertura-dos-dados",
     "title": "O que são dados abertos? O que é o Open Data Day?",
-    "section": "O que é a LAI?",
-    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+    "section": "Categorizando a abertura dos dados",
+    "text": "Categorizando a abertura dos dados\nTem relação com a transparência ativa!\n\nDados Abertos: Dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer pessoa.\nDados libertos: Dados que não são abertos, mas que foram liberados para uso por alguém (ou por alguma organização) que não é a que originalmente produz/disponibiliza os dados (ver essa apresentação do Turicas.\nDados fechados: Dados que não são abertos e não foram liberados para uso. Neste caso, uma opção é fazer um pedido de acesso à informação (transparência passiva)."
+  },
+  {
+    "objectID": "slide-open-data-day.html#para-saber-mais",
+    "href": "slide-open-data-day.html#para-saber-mais",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Para saber mais…",
+    "text": "Para saber mais…\n\nADICIONAR :)\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
   },
   {
     "objectID": "gugudadados.html",
@@ -191,7 +205,7 @@
     "href": "cronograma.html",
     "title": "Cronograma preliminar",
     "section": "",
-    "text": "8h30 - Chegada + Café comunitário\n9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)\n9h20 - Apresentação sobre a R-Ladies São Paulo\n9h40 - Apresentação curta: O que é Open Data Day?\n10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)\n10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)\n12h00 - Almoço\n13h00 - Retorno do Almoço\n13h05 - Apresentação sobre a Open Knowledge Brasil - Haydee Svab\n13h20 - Apresentação sobre a Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).\n13h40 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.\n16h00 - Sorteio + Encerramento",
+    "text": "8h30 - Chegada + Café comunitário\n9h00 - Início do evento + Abertura do Insper: Jucilene Lopes (Centro de Ciência de Dados) e Graziela Tonin (Women in Tech)\n9h20 - Apresentação sobre a R-Ladies São Paulo\n9h40 - Apresentação curta: O que é Open Data Day? - Beatriz Milz (R-Ladies São Paulo + Curso-R + Rede de Embaixadoras de Inovação Cívica + IEE/USP)\n10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)\n10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)\n12h00 - Almoço\n13h00 - Retorno do Almoço\n13h05 - Apresentação sobre a Open Knowledge Brasil - Haydee Svab (R-Ladies São Paulo & OKBR)\n13h20 - Apresentação sobre a Rede de Embaixadoras de Inovação Cívica: Camila da Cruz S. de Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).\n13h40 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.\n16h00 - Sorteio + Encerramento",
     "crumbs": [
       "Cronograma preliminar"
     ]
