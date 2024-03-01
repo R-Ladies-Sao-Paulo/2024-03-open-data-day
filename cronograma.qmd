@@ -27,7 +27,10 @@ cronograma <- tibble::tibble(
   tibble::add_row(
     ordem = 3,
     horario = "09h20 - 09h35",
-    descricao = "Apresentação sobre a R-Ladies São Paulo") |> tibble::add_row(
+    descricao = "Apresentação sobre a R-Ladies São Paulo",
+    palestrantes = "<a href='https://www.linkedin.com/in/tatyane-paz-dominguez-264224213/' target='_blank'>Tatyane Paz Dominguez</a> (<a href='https://rladies-sp.org/' target='_blank'>R-Ladies São Paulo</a> +  <a href='https://www.iag.usp.br/' target='_blank'>IAG/USP</a>)",
+    link_apresentacao = "https://raw.githubusercontent.com/R-Ladies-Sao-Paulo/2024-03-open-data-day/main/apresentacoes/rladies.pdf") |> 
+  tibble::add_row(
     ordem = 4,
     horario = "09h40 - 10h00",
     descricao = "Apresentação: O que é Open Data Day?",
@@ -51,17 +54,20 @@ cronograma <- tibble::tibble(
     ordem = 8,
     horario = "13h30 - 13h45",
     descricao = "Apresentação sobre a Open Knowledge Brasil",
-    palestrantes = "<a href='https://www.linkedin.com/in/hsvab/' target='_blank'>Haydee Svab</a> (<a href='https://www.ok.org.br/' target='_blank'>Open Knowledge Brasil</a> + <a href='https://rladies-sp.org/' target='_blank'>R-Ladies São Paulo</a>)") |> 
+    palestrantes = "<a href='https://www.linkedin.com/in/hsvab/' target='_blank'>Haydee Svab</a> (<a href='https://www.ok.org.br/' target='_blank'>Open Knowledge Brasil</a> + <a href='https://rladies-sp.org/' target='_blank'>R-Ladies São Paulo</a>)",
+    link_apresentacao = "https://raw.githubusercontent.com/R-Ladies-Sao-Paulo/2024-03-open-data-day/main/apresentacoes/okbr.pdf") |> 
   tibble::add_row(
     ordem = 9,
     horario = "13h45 - 14h00",
     descricao = "Apresentação sobre as Embaixadoras de Inovação Cívica",
     palestrantes = "<a href='https://www.linkedin.com/in/camiladacruz-cs/' target='_blank'>Camila da Cruz S. de Souza</a>  (<a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>) <br><br>
-    <a href='https://www.linkedin.com/in/oliviaboretti/' target='_blank'>Olivia Boretti</a> (<a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>)") |> 
+    <a href='https://www.linkedin.com/in/oliviaboretti/' target='_blank'>Olivia Boretti</a> (<a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>)",
+    link_apresentacao = "https://raw.githubusercontent.com/R-Ladies-Sao-Paulo/2024-03-open-data-day/main/apresentacoes/embaixadoras.pdf") |> 
   tibble::add_row(
     ordem = 10,
     horario = "14h00 - 16h00",
-    descricao = "Prática: Explorando dados obtidos na plataforma Base dos Dados") |> 
+    descricao = "Prática: Explorando dados obtidos na plataforma Base dos Dados",
+    link_apresentacao = "https://docs.google.com/document/d/1JFKqawVtjCkblMz-i5ZAmwcWwEFsWPuqO6GDjek4RSs/edit?usp=sharing") |> 
   tibble::add_row(
     ordem = 11,
     horario = "16h00 - 16h30",
