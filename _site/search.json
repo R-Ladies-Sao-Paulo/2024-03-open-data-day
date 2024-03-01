@@ -47,7 +47,7 @@
     "href": "index.html",
     "title": "Análise de dados abertos com R - 2024",
     "section": "",
-    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024.\nAs inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
+    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024 às 8h30.\nEndereço: Insper - Rua Quatá, 200 - Vila Olímpia, São Paulo - SP, 04546-042\n\n Acesse o cronograma!\n\n\nInscrições encerradas!. As inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
     "crumbs": [
       "Página inicial"
     ]
@@ -57,7 +57,7 @@
     "href": "index.html#boas-vindas",
     "title": "Análise de dados abertos com R - 2024",
     "section": "",
-    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024.\nAs inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
+    "text": "Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024 às 8h30.\nEndereço: Insper - Rua Quatá, 200 - Vila Olímpia, São Paulo - SP, 04546-042\n\n Acesse o cronograma!\n\n\nInscrições encerradas!. As inscrições dos eventos acontecem através da plataforma Meetup. Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.\n\n\nRecomendamos que pessoas adultas que compareçam ao eventos tenham tomado pelo menos 2 doses da vacina contra Covid-19.\n\n\n\nEste código de conduta aplica-se a todos os espaços R-Ladies, incluindo: meetups, Twitter, Slack, listas de discussão, tanto online como offline: Clique aqui para acessar o código de conduta.\n\n\n\n\nMeetup\nYoutube\nInstagram\nLinkedIn\n\nSe postar sobre o evento, marque o nosso perfil!",
     "crumbs": [
       "Página inicial"
     ]
@@ -87,6 +87,13 @@
     "text": "O que são dados abertos?\nSegundo a definição da Open Knowledge Foundation, os dados são considerados abertos quando:\n\nQualquer pessoa pode acessar, usar, modificar e compartilhar livremente para qualquer finalidade (sujeito a, no máximo, a requisitos que preservem a proveniência e a sua abertura).\n\n\n\nFonte: https://www.gov.br/governodigital/pt-br/dados-abertos"
   },
   {
+    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
+    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "O que é a LAI?",
+    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica."
+  },
+  {
     "objectID": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
     "href": "slide-open-data-day.html#princípios-de-dados-abertos-governamentais",
     "title": "O que são dados abertos? O que é o Open Data Day?",
@@ -101,11 +108,18 @@
     "text": "Princípios de dados abertos governamentais\n\n5 - Processáveis por máquina. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.\n6 - Acesso não discriminatório. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.\n7 - Formatos não proprietários. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.\n8 - Livres de licenças. Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.\n\n\nFontes: https://opengovdata.io/ e https://www.gov.br/governodigital/pt-br/dados-abertos"
   },
   {
-    "objectID": "slide-open-data-day.html#o-que-é-a-lai",
-    "href": "slide-open-data-day.html#o-que-é-a-lai",
+    "objectID": "slide-open-data-day.html#categorizando-a-abertura-dos-dados",
+    "href": "slide-open-data-day.html#categorizando-a-abertura-dos-dados",
     "title": "O que são dados abertos? O que é o Open Data Day?",
-    "section": "O que é a LAI?",
-    "text": "O que é a LAI?\n\nLei de Acesso à Informação\n\nLei Federal Nº 12.527, de 18 de novembro de 2011.\nDecreto Federal Nº 7.724, de 16 de maio de 2012\n\nTransparência Ativa - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.\nTransparência Passiva - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
+    "section": "Categorizando a abertura dos dados",
+    "text": "Categorizando a abertura dos dados\nTem relação com a transparência ativa!\n\nDados Abertos: Dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer pessoa.\nDados libertos: Dados que não são abertos, mas que foram liberados para uso por alguém (ou por alguma organização) que não é a que originalmente produz/disponibiliza os dados (ver essa apresentação do Turicas).\nDados fechados: Dados que não são abertos e não foram libertos. Neste caso, uma opção é fazer um pedido de acesso à informação (transparência passiva)."
+  },
+  {
+    "objectID": "slide-open-data-day.html#para-saber-mais",
+    "href": "slide-open-data-day.html#para-saber-mais",
+    "title": "O que são dados abertos? O que é o Open Data Day?",
+    "section": "Para saber mais…",
+    "text": "Para saber mais…\n\nADICIONAR :)\n\n\n\n\n\n\n\n\nSlides feitos com Quarto e Quarto R-Ladies Theme."
   },
   {
     "objectID": "gugudadados.html",
@@ -185,16 +199,6 @@
     "title": "Atividade: Análise de Dados Abertos com R",
     "section": "Blog da R-Ladies",
     "text": "Blog da R-Ladies\n\nPor último: vocês podem compartilhar estes aprendizados no blog da R-Ladies!"
-  },
-  {
-    "objectID": "cronograma.html",
-    "href": "cronograma.html",
-    "title": "Cronograma preliminar",
-    "section": "",
-    "text": "8h30 - Chegada + Café comunitário\n9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)\n9h20 - Apresentação sobre a R-Ladies São Paulo\n9h40 - Apresentação curta: O que é Open Data Day?\n10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)\n10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)\n12h00 - Almoço\n13h00 - Retorno do Almoço\n13h15 - Apresentação da Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).\n13h30 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.\n16h00 - Sorteio + Encerramento",
-    "crumbs": [
-      "Cronograma preliminar"
-    ]
   },
   {
     "objectID": "auxilios.html",

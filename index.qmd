@@ -9,6 +9,15 @@ editor: visual
 
 Esse evento acontecerá presencialmente, em São Paulo, em 02/03/2024 às 8h30.
 
+**Endereço:** Insper - Rua Quatá, 200 - Vila Olímpia, São Paulo - SP, 04546-042
+
+<center>
+<a href='https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/cronograma.html'>
+<button type="button" class="btn btn-info">Acesse o cronograma!</button></a>
+</center>
+
+<br>
+
 **Inscrições encerradas!**. As inscrições dos eventos acontecem através da plataforma [Meetup](https://www.meetup.com/rladies-sao-paulo/events/298936962/). Além de se inscrever no Meetup, é necessário preencher o formulário presente na descrição da página do meetup.
 
 ### Protocolos referentes à COVID-19

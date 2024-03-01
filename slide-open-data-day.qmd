@@ -17,7 +17,7 @@ incremental: false
 
 -   Todos os resultados são abertos para que todos usem e reusem.
 
-- É organizado e apoiado pela Open Knowledge Foundation!
+-   É organizado e apoiado pela Open Knowledge Foundation!
 
 -   Saiba mais em: <https://opendataday.org/pt_br/> e <https://ok.org.br/projetos/open-data-day/>
 
@@ -32,56 +32,63 @@ Segundo a [definição](http://opendefinition.org/) da [Open Knowledge Foundatio
 ![](images/paste-6ACADB01.png){fig-align="center"}
 
 ::: footer
-
 Fonte: <https://www.gov.br/governodigital/pt-br/dados-abertos>
 :::
 
-## Princípios de dados abertos governamentais
-
-- **1 - Completos**. Todos os dados públicos estão disponíveis. Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso.
-
-
-- **2 - Primários**.
-Os dados são apresentados tais como os coletados na fonte, com o maior nível possível de granularidade e sem agregação ou modificação.
-
-
-- **3 - Atuais**. Os dados são disponibilizados o mais rápido possível para preservar o seu valor.
-
-
-- **4 - Acessíveis**. Os dados são disponibilizados para o maior alcance possível de usuários e para os propósitos mais variados possíveis.
-
-::: footer
-Fontes: <https://opengovdata.io/> e <https://www.gov.br/governodigital/pt-br/dados-abertos>
-:::
-
-
-## Princípios de dados abertos governamentais
-
-- **5 - Processáveis por máquina**. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.
-
-
-- **6 - Acesso não discriminatório**. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.
-
-
-- **7 - Formatos não proprietários**. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.
-
-
-- **8 - Livres de licenças.** Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.
-
-::: footer
-Fontes: <https://opengovdata.io/> e <https://www.gov.br/governodigital/pt-br/dados-abertos>
-:::
 
 ## O que é a LAI?
 
-- Lei de Acesso à Informação
-  - [Lei Federal Nº 12.527, de 18 de novembro de 2011. ](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
-  - [Decreto Federal Nº 7.724, de 16 de maio de 2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm)
-  
-  
-- **Transparência Ativa** - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.
+-   Lei de Acesso à Informação
 
-- **Transparência Passiva** - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.
+    -   [Lei Federal Nº 12.527, de 18 de novembro de 2011.](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
+    -   [Decreto Federal Nº 7.724, de 16 de maio de 2012](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7724.htm)
+
+-   **Transparência Ativa** - É a divulgação de dados por iniciativa do próprio setor público, ou seja, quando são tornadas públicas informações, independente de requerimento, utilizando principalmente a Internet.
+
+-   **Transparência Passiva** - É a disponibilização de informações públicas em atendimento a demandas específicas de uma pessoa física ou jurídica.
+
+
+## Princípios de dados abertos governamentais
+
+-   **1 - Completos**. Todos os dados públicos estão disponíveis. Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso.
+
+-   **2 - Primários**. Os dados são apresentados tais como os coletados na fonte, com o maior nível possível de granularidade e sem agregação ou modificação.
+
+-   **3 - Atuais**. Os dados são disponibilizados o mais rápido possível para preservar o seu valor.
+
+-   **4 - Acessíveis**. Os dados são disponibilizados para o maior alcance possível de usuários e para os propósitos mais variados possíveis.
+
+::: footer
+Fontes: <https://opengovdata.io/> e <https://www.gov.br/governodigital/pt-br/dados-abertos>
+:::
+
+## Princípios de dados abertos governamentais
+
+-   **5 - Processáveis por máquina**. Os dados são razoavelmente estruturados para possibilitar o seu processamento automatizado.
+
+-   **6 - Acesso não discriminatório**. Os dados estão disponíveis a todos, sem que seja necessária identificação ou registro.
+
+-   **7 - Formatos não proprietários**. Os dados estão disponíveis em um formato sobre o qual nenhum ente tenha controle exclusivo.
+
+-   **8 - Livres de licenças.** Os dados não estão sujeitos a regulações de direitos autorais, marcas, patentes ou segredo industrial. Restrições razoáveis de privacidade, segurança e controle de acesso podem ser permitidas na forma regulada por estatutos.
+
+::: footer
+Fontes: <https://opengovdata.io/> e <https://www.gov.br/governodigital/pt-br/dados-abertos>
+:::
+
+## Categorizando a abertura dos dados
+
+Tem relação com a transparência ativa!
+
+-  **Dados Abertos**: Dados que podem ser livremente utilizados, reutilizados e redistribuídos por qualquer pessoa.
+
+-  **Dados libertos**: Dados que não são abertos, mas que foram liberados para uso por alguém (ou por alguma organização) que não é a que originalmente produz/disponibiliza os dados (ver [essa apresentação do Turicas](http://turicas.info/slides/brasil.io/qconsp2019/#/)).
+
+- **Dados fechados**: Dados que não são abertos e não foram libertos. Neste caso, uma opção é fazer um pedido de acesso à informação (transparência passiva).
+
+## Para saber mais...
+
+- ADICIONAR :)
 
 
 <!-- inicio font awesome -->

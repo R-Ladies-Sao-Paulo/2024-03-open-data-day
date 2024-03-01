@@ -1,29 +1,105 @@
 ---
-title: "Cronograma preliminar"
+title: "Cronograma"
 format: html
 editor: visual
 ---
 
--   8h30 - Chegada + Café comunitário
+```{r}
+#| echo: false
+cronograma <- tibble::tibble(
+  ordem = numeric(),
+  horario = character(),
+  descricao = character(),
+  palestrantes = character(),
+  link_apresentacao = character()
+) |> 
+  tibble::add_row(
+    ordem = 1,
+    horario = "08h30 - 09h00",
+    descricao = "Credenciamento e café comunitário"
+  ) |> 
+  tibble::add_row(
+    ordem = 2,
+    horario = "09h00 - 09h15",
+    descricao = "Abertura: Insper",
+    palestrantes = "<a href='https://www.linkedin.com/in/jucilene-santos-82518524/' target='_blank'>Jucilene Lopes</a> (<a href='https://www.insper.edu.br/pesquisa-e-conhecimento/centro-de-ciencia-de-dados/' target='_blank'>Centro de Ciência de Dados do Insper (CCD)</a>) <br><br>
+    <a href='https://www.linkedin.com/in/grazielatonin/' target='_blank'>Graziela Tonin</a> (<a href='https://www.insper.edu.br/noticias/graziela-tonin-assume-lideranca-do-women-in-tech/ target='_blank'>Women in Tech</a>)") |> 
+  tibble::add_row(
+    ordem = 3,
+    horario = "09h20 - 09h35",
+    descricao = "Apresentação sobre a R-Ladies São Paulo") |> tibble::add_row(
+    ordem = 4,
+    horario = "09h40 - 10h00",
+    descricao = "Apresentação: O que é Open Data Day?",
+    palestrantes = "<a href='https://www.linkedin.com/in/beatrizmilz/' target='_blank'>Beatriz Milz</a> (<a href='https://rladies-sp.org/' target='_blank'>R-Ladies São Paulo</a> +  <a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>)",
+    link_apresentacao = "https://r-ladies-sao-paulo.github.io/2024-03-open-data-day/slide-open-data-day.html") |> 
+  tibble::add_row(
+    ordem = 5,
+    horario = "10h00 - 10h20",
+    descricao = "Apresentação: O que é a Base dos dados?",
+    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)") |> 
+  tibble::add_row(
+    ordem = 6,
+    horario = "10h20 - 12h00",
+    descricao = "Apresentação: Como buscar dados na Base dos Dados? + Prática com R",
+    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)") |> 
+  tibble::add_row(
+    ordem = 7,
+    horario = "12h00 - 13h30",
+    descricao = "Almoço") |>
+  tibble::add_row(
+    ordem = 8,
+    horario = "13h30 - 13h45",
+    descricao = "Apresentação sobre a Open Knowledge Brasil",
+    palestrantes = "<a href='https://www.linkedin.com/in/hsvab/' target='_blank'>Haydee Svab</a> (<a href='https://www.ok.org.br/' target='_blank'>Open Knowledge Brasil</a> + <a href='https://rladies-sp.org/' target='_blank'>R-Ladies São Paulo</a>)") |> 
+  tibble::add_row(
+    ordem = 9,
+    horario = "13h45 - 14h00",
+    descricao = "Apresentação sobre as Embaixadoras de Inovação Cívica",
+    palestrantes = "<a href='https://www.linkedin.com/in/camiladacruz-cs/' target='_blank'>Camila da Cruz S. de Souza</a>  (<a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>) <br><br>
+    <a href='https://www.linkedin.com/in/oliviaboretti/' target='_blank'>Olivia Boretti</a> (<a href='https://embaixadoras.ok.org.br/' target='_blank'>Embaixadoras</a>)") |> 
+  tibble::add_row(
+    ordem = 10,
+    horario = "14h00 - 16h00",
+    descricao = "Prática: Explorando dados obtidos na plataforma Base dos Dados") |> 
+  tibble::add_row(
+    ordem = 11,
+    horario = "16h00 - 16h30",
+    descricao = "Sorteio e encerramento") 
+    
+  
 
--   9h00 - Início do evento + Abertura do Insper (Centro de Ciência de Dados)
+cronograma |> 
+  dplyr::mutate(
+    link_apresentacao = ifelse(
+      !is.na(link_apresentacao),
+      paste0("<a href='", link_apresentacao, "' target='_blank'>Acesso</a>"),
+      ""
+    )
+  ) |> 
+  dplyr::arrange(ordem) |> 
+  dplyr::select(-ordem) |> 
+  reactable::reactable(
+    pagination = FALSE,
+    bordered = TRUE,
+    highlight = TRUE,
+    columns = list(
+      palestrantes = reactable::colDef(
+        name = "Palestrantes", html = TRUE
+      ),
+      horario = reactable::colDef(name = "Horário", maxWidth = 100), 
+      descricao = reactable::colDef(name = "Descrição"),
+      link_apresentacao = reactable::colDef(name = "Apresentação", html = TRUE, maxWidth = 140, align = "center")
+      ),
 
--   9h20 - Apresentação sobre a R-Ladies São Paulo
-
--   9h40 - Apresentação curta: [O que é Open Data Day?](slide-open-data-day.qmd){target="_blank"}
-
--   10h00 - Base dos dados (apresentação sobre a organização) + Como buscar dados na BD? - Laura Amaral (Base dos Dados)
-
--   10h30 - Apresentação + Prática sobre como importar dados no R usando o pacote da BD - Laura Amaral (Base dos Dados)
-
--   12h00 - Almoço
-
--   13h00 - Retorno do Almoço
-
--   13h05 - Apresentação sobre a Open Knowledge Brasil - Haydee Svab
-
--   13h20 - Apresentação sobre a Rede de Embaixadoras de Inovação Cívica: Camila Souza e Olivia Boretti (Rede de Embaixadoras de Inovação Cívica).
-
--   13h40 - Atividade prática em grupos de até 5 pessoas, explorando dados obtidos na plataforma Base dos Dados.
-
--   16h00 - Sorteio + Encerramento
+      rowStyle = function(index){
+        if(index %in% c(1, 7)){
+          list(background = "#ecd7ed")
+        } else if (index %% 2 == 0) {
+          list(background = "#f2f2f2")
+        } else {
+          list(background = "white")
+        }
+      }
+    )
+```
