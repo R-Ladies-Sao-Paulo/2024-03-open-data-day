@@ -40,12 +40,14 @@ cronograma <- tibble::tibble(
     ordem = 5,
     horario = "10h00 - 10h20",
     descricao = "Apresentação: O que é a Base dos dados?",
-    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)") |> 
+    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)",
+    link_apresentacao = "https://docs.google.com/presentation/d/1WGNutn_V9QxrcQ4XOItVf0x6MF9F-mFd4Ub3uwsYGps/edit?usp=sharing") |> 
   tibble::add_row(
     ordem = 6,
     horario = "10h20 - 12h00",
     descricao = "Apresentação: Como buscar dados na Base dos Dados? + Prática com R",
-    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)") |> 
+    palestrantes = "<a href='https://www.linkedin.com/in/laura-amaral-574b73121/' target='_blank'>Laura Amaral</a> (<a href='https://basedosdados.org/' target='_blank'>Base dos Dados</a>)",
+    link_apresentacao = "https://docs.google.com/presentation/d/1WGNutn_V9QxrcQ4XOItVf0x6MF9F-mFd4Ub3uwsYGps/edit?usp=sharing") |> 
   tibble::add_row(
     ordem = 7,
     horario = "12h00 - 13h30",
