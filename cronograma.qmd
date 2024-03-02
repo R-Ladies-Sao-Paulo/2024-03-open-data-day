@@ -23,7 +23,7 @@ cronograma <- tibble::tibble(
     horario = "09h00 - 09h15",
     descricao = "Abertura: Insper",
     palestrantes = "<a href='https://www.linkedin.com/in/jucilene-santos-82518524/' target='_blank'>Jucilene Lopes</a> (<a href='https://www.insper.edu.br/pesquisa-e-conhecimento/centro-de-ciencia-de-dados/' target='_blank'>Centro de Ciência de Dados do Insper (CCD)</a>) <br><br>
-    <a href='https://www.linkedin.com/in/grazielatonin/' target='_blank'>Graziela Tonin</a> (<a href='https://www.insper.edu.br/noticias/graziela-tonin-assume-lideranca-do-women-in-tech/ target='_blank'>Women in Tech</a>)") |> 
+    <a href='https://www.linkedin.com/in/grazielatonin/' target='_blank'>Graziela Tonin</a> (<a href='https://www.insper.edu.br/noticias/graziela-tonin-assume-lideranca-do-women-in-tech/' target='_blank'>Women in Tech</a>)") |> 
   tibble::add_row(
     ordem = 3,
     horario = "09h20 - 09h35",
